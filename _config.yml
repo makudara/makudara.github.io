@@ -15,7 +15,7 @@ email:
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
@@ -35,3 +35,7 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
+poem: |
+  T. rex, T.rex
+  How I love thee
